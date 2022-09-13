@@ -1,0 +1,1064 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>VuongQuanThanh &#8211; My WordPress</title>
+	<atom:link href="http://localhost/Myproject/wordpress/author/vuongquanthanh/feed/" rel="self" type="application/rss+xml" />
+	<link>https://qthanh2110.github.io/mywordpress</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 13 Sep 2022 02:33:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>Đồ án giữa kì</title>
+		<link>https://qthanh2110.github.io/mywordpress/do-an-giua-ki/</link>
+					<comments>https://qthanh2110.github.io/mywordpress/do-an-giua-ki/#respond</comments>
+		
+		<dc:creator><![CDATA[VuongQuanThanh]]></dc:creator>
+		<pubDate>Tue, 06 Sep 2022 00:37:40 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://qthanh2110.github.io/mywordpress/?p=68</guid>
+
+					<description><![CDATA[Netherland Hitoric Amsterdam Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Discover Netherland View other &#8230;]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="68" class="elementor elementor-68">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-181cc26 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="181cc26" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;video&quot;,&quot;background_video_link&quot;:&quot;https:\/\/www.youtube.com\/watch?v=Oxv6IRcuNaI&quot;,&quot;background_video_start&quot;:20,&quot;background_video_end&quot;:55}">
+								<div class="elementor-background-video-container elementor-hidden-phone">
+													<div class="elementor-background-video-embed"></div>
+												</div>
+								<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-cd0e165" data-id="cd0e165" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-ffc76c9 elementor-nav-menu__align-right elementor-fixed elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="ffc76c9" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;fixed&quot;,&quot;sticky&quot;:&quot;top&quot;,&quot;toggle_icon_hover_animation&quot;:&quot;pulse&quot;,&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;,&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://qthanh2110.github.io/mywordpress/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css">			<nav migration_allowed="1" migrated="0" role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-background e--animation-fade">
+				<ul id="menu-1-ffc76c9" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-370"><a href="https://qthanh2110.github.io/mywordpress/" class="elementor-item">HomePage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-51"><a href="https://qthanh2110.github.io/mywordpress/blog/" class="elementor-item">Blog</a></li>
+</ul>			</nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open elementor-animation-pulse fas fa-search"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close elementor-animation-pulse eicon-close"></i>			<span class="elementor-screen-only">Menu</span>
+		</div>
+			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
+				<ul id="menu-2-ffc76c9" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-370"><a href="https://qthanh2110.github.io/mywordpress/" class="elementor-item" tabindex="-1">HomePage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-51"><a href="https://qthanh2110.github.io/mywordpress/blog/" class="elementor-item" tabindex="-1">Blog</a></li>
+</ul>			</nav>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-29ec38a elementor-section-height-full elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="29ec38a" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;video&quot;,&quot;background_video_link&quot;:&quot;https:\/\/www.youtube.com\/watch?v=wjTn_EkgQRg&quot;,&quot;background_video_start&quot;:59,&quot;background_video_end&quot;:107}">
+								<div class="elementor-background-video-container elementor-hidden-phone">
+													<div class="elementor-background-video-embed"></div>
+												</div>
+								<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-78c719b" data-id="78c719b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2712696 elementor-widget__width-inherit elementor-absolute elementor-widget elementor-widget-text-editor" data-id="2712696" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.4 - 31-08-2022 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p><strong>Netherland</strong></p><h1><strong>Hitoric Amsterdam</strong></h1><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-1fd21d9 elementor-align-center elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-button" data-id="1fd21d9" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-md elementor-animation-float" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Discover Netherland</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-cb27e13 elementor-align-center elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-button" data-id="cb27e13" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-md elementor-animation-float" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">View other Tours</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-d35b689 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d35b689" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-e682945" data-id="e682945" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-6e61f34" data-id="6e61f34" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-b871705" data-id="b871705" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e30c14b elementor-search-form--skin-minimal elementor-widget elementor-widget-search-form" data-id="e30c14b" data-element_type="widget" data-settings="{&quot;skin&quot;:&quot;minimal&quot;}" data-widget_type="search-form.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://qthanh2110.github.io/mywordpress/wp-content/plugins/elementor-pro/assets/css/widget-theme-elements.min.css">		<form class="elementor-search-form" role="search" action="https://qthanh2110.github.io/mywordpress" method="get">
+									<div class="elementor-search-form__container">
+									<div class="elementor-search-form__icon">
+						<i aria-hidden="true" class="fas fa-search"></i>						<span class="elementor-screen-only">Search</span>
+					</div>
+								<input placeholder="Price form" class="elementor-search-form__input" type="search" name="s" title="Search" value="">
+															</div>
+		</form>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-3be1076" data-id="3be1076" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-268f2c9 elementor-search-form--skin-minimal elementor-widget elementor-widget-search-form" data-id="268f2c9" data-element_type="widget" data-settings="{&quot;skin&quot;:&quot;minimal&quot;}" data-widget_type="search-form.default">
+				<div class="elementor-widget-container">
+					<form class="elementor-search-form" role="search" action="https://qthanh2110.github.io/mywordpress" method="get">
+									<div class="elementor-search-form__container">
+									<div class="elementor-search-form__icon">
+						<i aria-hidden="true" class="fas fa-search"></i>						<span class="elementor-screen-only">Search</span>
+					</div>
+								<input placeholder="Price to" class="elementor-search-form__input" type="search" name="s" title="Search" value="">
+															</div>
+		</form>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-8baaf0c" data-id="8baaf0c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-33a8e73 elementor-button-info elementor-align-justify elementor-widget__width-inherit elementor-absolute elementor-widget elementor-widget-button" data-id="33a8e73" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-size-md" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Find your Tour</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-220f051 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="220f051" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-02a3027" data-id="02a3027" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-a90a29d elementor-widget elementor-widget-heading" data-id="a90a29d" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.4 - 31-08-2022 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><p class="elementor-heading-title elementor-size-small">GO PLACES WITH TRAVELICIOUS</p>		</div>
+				</div>
+				<div class="elementor-element elementor-element-ee8a61e elementor-widget__width-initial elementor-absolute e-transform e-transform e-transform elementor-widget elementor-widget-heading" data-id="ee8a61e" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;,&quot;motion_fx_motion_fx_scrolling&quot;:&quot;yes&quot;,&quot;_transform_translateX_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:-14,&quot;sizes&quot;:[]},&quot;_transform_scale_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.5,&quot;sizes&quot;:[]},&quot;motion_fx_devices&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;_transform_rotateZ_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_rotateZ_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_rotateZ_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-xl">Find a <b><span>Perfect Places</span></b></h2>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-7dfa6a7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7dfa6a7" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-772730c" data-id="772730c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+									</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-70a2753 elementor-section-full_width elementor-section-height-min-height elementor-section-height-default elementor-section-items-middle" data-id="70a2753" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-313e9c7" data-id="313e9c7" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-cda7d40 elementor-testimonial--skin-default elementor-testimonial--layout-image_inline elementor-testimonial--align-center elementor-widget elementor-widget-testimonial-carousel" data-id="cda7d40" data-element_type="widget" data-settings="{&quot;slides_per_view&quot;:&quot;5&quot;,&quot;speed&quot;:500,&quot;autoplay&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;loop&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;space_between&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;space_between_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;space_between_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]}}" data-widget_type="testimonial-carousel.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://qthanh2110.github.io/mywordpress/wp-content/plugins/elementor-pro/assets/css/widget-carousel.min.css">		<div class="elementor-swiper">
+			<div class="elementor-main-swiper swiper-container">
+				<div class="swiper-wrapper">
+											<div class="swiper-slide">
+									<div class="elementor-testimonial">
+							<div class="elementor-testimonial__content">
+					<div class="elementor-testimonial__text">
+								<div data-elementor-type="section" data-elementor-id="252" class="elementor elementor-252">
+								<section class="elementor-section elementor-top-section elementor-element elementor-element-6661af29 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6661af29" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-79c518d0" data-id="79c518d0" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-7e3e6d81 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default" data-id="7e3e6d81" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-22a264e5" data-id="22a264e5" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+							</div>
+		</section>
+				<div class="elementor-element elementor-element-3b594489 elementor-widget elementor-widget-heading" data-id="3b594489" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default"><p style="color:black;">Fuji, Japan</p> 
+<h5 style="color:#0733a0;">From <b>$420</b> </h5></h2>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+							</div>
+									</div>
+						<div class="elementor-testimonial__footer">
+											</div>
+		</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-testimonial">
+							<div class="elementor-testimonial__content">
+					<div class="elementor-testimonial__text">
+								<div data-elementor-type="section" data-elementor-id="256" class="elementor elementor-256">
+								<section class="elementor-section elementor-top-section elementor-element elementor-element-2bdc4278 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2bdc4278" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7b392d69" data-id="7b392d69" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-1c787b18 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default" data-id="1c787b18" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-585dbb8" data-id="585dbb8" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+							</div>
+		</section>
+				<div class="elementor-element elementor-element-605be941 elementor-widget elementor-widget-heading" data-id="605be941" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-large">Thrilling New York <br>
+<h5 style="color:dark blue;">From $1280</h5></h6>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+							</div>
+									</div>
+						<div class="elementor-testimonial__footer">
+											</div>
+		</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-testimonial">
+							<div class="elementor-testimonial__content">
+					<div class="elementor-testimonial__text">
+								<div data-elementor-type="section" data-elementor-id="259" class="elementor elementor-259">
+								<section class="elementor-section elementor-top-section elementor-element elementor-element-6f58aeef elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6f58aeef" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7dfa5eda" data-id="7dfa5eda" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-544820ee elementor-section-height-min-height elementor-section-boxed elementor-section-height-default" data-id="544820ee" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-b632bb8" data-id="b632bb8" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+							</div>
+		</section>
+				<div class="elementor-element elementor-element-1c736f77 elementor-widget elementor-widget-heading" data-id="1c736f77" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-large">Trip to Ancient Rome <br>
+<h5 style="color:dark blue;">From $1300</h5></h5>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+							</div>
+									</div>
+						<div class="elementor-testimonial__footer">
+											</div>
+		</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-testimonial">
+							<div class="elementor-testimonial__content">
+					<div class="elementor-testimonial__text">
+								<div data-elementor-type="section" data-elementor-id="263" class="elementor elementor-263">
+								<section class="elementor-section elementor-top-section elementor-element elementor-element-6b810678 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6b810678" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-251882" data-id="251882" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-73c2d29d elementor-section-height-min-height elementor-section-boxed elementor-section-height-default" data-id="73c2d29d" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-42936c6f" data-id="42936c6f" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+							</div>
+		</section>
+				<div class="elementor-element elementor-element-4acdbe96 elementor-widget elementor-widget-heading" data-id="4acdbe96" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-large">Visit Colorful Germany <br>
+<h5 style="color:dark blue;">From <text style="text-decoration:line-through;">$700</text>$480</h5></h5>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+							</div>
+									</div>
+						<div class="elementor-testimonial__footer">
+											</div>
+		</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-testimonial">
+							<div class="elementor-testimonial__content">
+					<div class="elementor-testimonial__text">
+								<div data-elementor-type="section" data-elementor-id="267" class="elementor elementor-267">
+								<section class="elementor-section elementor-top-section elementor-element elementor-element-75a9dff1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="75a9dff1" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5b59d0f" data-id="5b59d0f" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-2ad7c517 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default" data-id="2ad7c517" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-4ac6e7f3" data-id="4ac6e7f3" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+							</div>
+		</section>
+				<div class="elementor-element elementor-element-310e67fa elementor-widget elementor-widget-heading" data-id="310e67fa" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-large">Romantic Portugal  <br>
+<h5 style="color:dark blue;">From $1200</h5></h5>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+							</div>
+									</div>
+						<div class="elementor-testimonial__footer">
+											</div>
+		</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-testimonial">
+							<div class="elementor-testimonial__content">
+					<div class="elementor-testimonial__text">
+								<div data-elementor-type="section" data-elementor-id="271" class="elementor elementor-271">
+								<section class="elementor-section elementor-top-section elementor-element elementor-element-33d63dc5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="33d63dc5" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2cdba423" data-id="2cdba423" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-29545b22 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default" data-id="29545b22" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-6d18175a" data-id="6d18175a" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+							</div>
+		</section>
+				<div class="elementor-element elementor-element-250b2da5 elementor-widget elementor-widget-heading" data-id="250b2da5" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-large">Nature Switzerland  <br>
+<h5 style="color:dark blue;">From $1500</h5></h5>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+							</div>
+									</div>
+						<div class="elementor-testimonial__footer">
+											</div>
+		</div>
+								</div>
+									</div>
+																					</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-bf04dc1 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="bf04dc1" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-8ed7dcb" data-id="8ed7dcb" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-2367bb0 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2367bb0" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-6a25a9c" data-id="6a25a9c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3186d9e elementor-widget elementor-widget-text-editor" data-id="3186d9e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<h6>EXCELLENT PLACES TO GO</h6>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<div class="elementor-element elementor-element-d8c301b elementor-widget__width-auto elementor-absolute e-transform elementor-widget elementor-widget-heading" data-id="d8c301b" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;,&quot;_transform_skewX_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_skewX_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_skewX_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_skewY_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_skewY_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_skewY_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default"><b style="font-size:50px; text-tranform:uppercase;">Enjoy</b> the freedom!</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2cb9119 elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-text-editor" data-id="2cb9119" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Uniquely matrix economically sound value through cooperative technology. Competently parallel task fully researched data and enterprise process improvements.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-346ab80 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="346ab80" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-727f7c1" data-id="727f7c1" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3cf3f75 elementor-widget elementor-widget-gallery" data-id="3cf3f75" data-element_type="widget" data-settings="{&quot;gallery_layout&quot;:&quot;justified&quot;,&quot;overlay_title&quot;:&quot;caption&quot;,&quot;overlay_description&quot;:&quot;description&quot;,&quot;lazyload&quot;:&quot;yes&quot;,&quot;ideal_row_height&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:200,&quot;sizes&quot;:[]},&quot;ideal_row_height_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:150,&quot;sizes&quot;:[]},&quot;ideal_row_height_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:150,&quot;sizes&quot;:[]},&quot;gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;link_to&quot;:&quot;file&quot;,&quot;overlay_background&quot;:&quot;yes&quot;,&quot;content_hover_animation&quot;:&quot;fade-in&quot;}" data-widget_type="gallery.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor-pro - v3.7.1 - 16-05-2022 */
+.elementor-gallery__container{min-height:1px}.elementor-gallery-item{position:relative;overflow:hidden;display:block;text-decoration:none;border:solid var(--image-border-width) var(--image-border-color);border-radius:var(--image-border-radius)}.elementor-gallery-item__content,.elementor-gallery-item__overlay{height:100%;width:100%;position:absolute;top:0;left:0}.elementor-gallery-item__overlay{mix-blend-mode:var(--overlay-mix-blend-mode);-webkit-transition-duration:var(--overlay-transition-duration);-o-transition-duration:var(--overlay-transition-duration);transition-duration:var(--overlay-transition-duration);-webkit-transition-property:mix-blend-mode,opacity,background-color,-webkit-transform;transition-property:mix-blend-mode,opacity,background-color,-webkit-transform;-o-transition-property:mix-blend-mode,transform,opacity,background-color;transition-property:mix-blend-mode,transform,opacity,background-color;transition-property:mix-blend-mode,transform,opacity,background-color,-webkit-transform}.elementor-gallery-item__image.e-gallery-image{-webkit-transition-duration:var(--image-transition-duration);-o-transition-duration:var(--image-transition-duration);transition-duration:var(--image-transition-duration);-webkit-transition-property:-webkit-filter,-webkit-transform;transition-property:-webkit-filter,-webkit-transform;-o-transition-property:filter,transform;transition-property:filter,transform;transition-property:filter,transform,-webkit-filter,-webkit-transform}.elementor-gallery-item__content{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:var(--content-justify-content,center);-ms-flex-pack:var(--content-justify-content,center);justify-content:var(--content-justify-content,center);-webkit-box-align:center;-ms-flex-align:center;align-items:center;text-align:var(--content-text-align);padding:var(--content-padding)}.elementor-gallery-item__content>div{-webkit-transition-duration:var(--content-transition-duration);-o-transition-duration:var(--content-transition-duration);transition-duration:var(--content-transition-duration)}.elementor-gallery-item__content.elementor-gallery--sequenced-animation>div:nth-child(2){-webkit-transition-delay:calc((var(--content-transition-delay) / 3));-o-transition-delay:calc((var(--content-transition-delay) / 3));transition-delay:calc((var(--content-transition-delay) / 3))}.elementor-gallery-item__content.elementor-gallery--sequenced-animation>div:nth-child(3){-webkit-transition-delay:calc((var(--content-transition-delay) / 3) * 2);-o-transition-delay:calc((var(--content-transition-delay) / 3) * 2);transition-delay:calc((var(--content-transition-delay) / 3) * 2)}.elementor-gallery-item__content.elementor-gallery--sequenced-animation>div:nth-child(4){-webkit-transition-delay:calc((var(--content-transition-delay) / 3) * 3);-o-transition-delay:calc((var(--content-transition-delay) / 3) * 3);transition-delay:calc((var(--content-transition-delay) / 3) * 3)}.elementor-gallery-item__description{color:var(--description-text-color,#fff);width:100%}.elementor-gallery-item__title{color:var(--title-text-color,#fff);font-weight:700;width:100%}.elementor-gallery__titles-container{display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:var(--titles-container-justify-content,center);-ms-flex-pack:var(--titles-container-justify-content,center);justify-content:var(--titles-container-justify-content,center);margin-bottom:20px}.elementor-gallery__titles-container:not(.e--pointer-framed) .elementor-item:after,.elementor-gallery__titles-container:not(.e--pointer-framed) .elementor-item:before{background-color:var(--galleries-pointer-bg-color-hover)}.elementor-gallery__titles-container:not(.e--pointer-framed) .elementor-item.elementor-item-active:after,.elementor-gallery__titles-container:not(.e--pointer-framed) .elementor-item.elementor-item-active:before{background-color:var(--galleries-pointer-bg-color-active)}.elementor-gallery__titles-container.e--pointer-framed .elementor-item:before{border-color:var(--galleries-pointer-bg-color-hover);border-width:var(--galleries-pointer-border-width)}.elementor-gallery__titles-container.e--pointer-framed .elementor-item:after{border-color:var(--galleries-pointer-bg-color-hover)}.elementor-gallery__titles-container.e--pointer-framed .elementor-item.elementor-item-active:after,.elementor-gallery__titles-container.e--pointer-framed .elementor-item.elementor-item-active:before{border-color:var(--galleries-pointer-bg-color-active)}.elementor-gallery__titles-container.e--pointer-framed.e--animation-draw .elementor-item:before{border-left-width:var(--galleries-pointer-border-width);border-bottom-width:var(--galleries-pointer-border-width);border-right-width:0;border-top-width:0}.elementor-gallery__titles-container.e--pointer-framed.e--animation-draw .elementor-item:after{border-left-width:0;border-bottom-width:0;border-right-width:var(--galleries-pointer-border-width);border-top-width:var(--galleries-pointer-border-width)}.elementor-gallery__titles-container.e--pointer-framed.e--animation-corners .elementor-item:before{border-left-width:var(--galleries-pointer-border-width);border-bottom-width:0;border-right-width:0;border-top-width:var(--galleries-pointer-border-width)}.elementor-gallery__titles-container.e--pointer-framed.e--animation-corners .elementor-item:after{border-left-width:0;border-bottom-width:var(--galleries-pointer-border-width);border-right-width:var(--galleries-pointer-border-width);border-top-width:0}.elementor-gallery__titles-container .e--pointer-double-line .elementor-item:after,.elementor-gallery__titles-container .e--pointer-double-line .elementor-item:before,.elementor-gallery__titles-container .e--pointer-overline .elementor-item:before,.elementor-gallery__titles-container .e--pointer-underline .elementor-item:after{height:var(--galleries-pointer-border-width)}.elementor-gallery-title{--space-between:10px;cursor:pointer;color:#6d7882;font-weight:500;position:relative;padding:7px 14px;-webkit-transition:all .3s;-o-transition:all .3s;transition:all .3s}.elementor-gallery-title--active{color:#495157}.elementor-gallery-title:not(:last-child){margin-right:var(--space-between)}.elementor-gallery-item__title+.elementor-gallery-item__description{margin-top:var(--description-margin-top)}.e-gallery-item.elementor-gallery-item{-webkit-transition-property:all;-o-transition-property:all;transition-property:all}.e-gallery-item.elementor-animated-content .elementor-animated-item--enter-from-bottom,.e-gallery-item.elementor-animated-content .elementor-animated-item--enter-from-left,.e-gallery-item.elementor-animated-content .elementor-animated-item--enter-from-right,.e-gallery-item.elementor-animated-content .elementor-animated-item--enter-from-top,.e-gallery-item:hover .elementor-gallery__item-overlay-bg,.e-gallery-item:hover .elementor-gallery__item-overlay-content,.e-gallery-item:hover .elementor-gallery__item-overlay-content__description,.e-gallery-item:hover .elementor-gallery__item-overlay-content__title{opacity:1}a.elementor-item.elementor-gallery-title{color:var(--galleries-title-color-normal)}a.elementor-item.elementor-gallery-title.elementor-item-active,a.elementor-item.elementor-gallery-title.highlighted,a.elementor-item.elementor-gallery-title:focus,a.elementor-item.elementor-gallery-title:hover{color:var(--galleries-title-color-hover)}a.elementor-item.elementor-gallery-title.elementor-item-active{color:var(--gallery-title-color-active)}</style>		<div class="elementor-gallery__container">
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/09/switzerland-vacations-travel-to-switzerland-1562949323.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-3cf3f75" data-elementor-lightbox-description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor " e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjcwLCJ1cmwiOiJodHRwOlwvXC9sb2NhbGhvc3Q6NzAwMFwvTXlwcm9qZWN0XC93b3JkcHJlc3NcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjJcLzA5XC9zd2l0emVybGFuZC12YWNhdGlvbnMtdHJhdmVsLXRvLXN3aXR6ZXJsYW5kLTE1NjI5NDkzMjMuanBnIiwic2xpZGVzaG93IjoiYWxsLTNjZjNmNzUifQ%3D%3D">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/09/switzerland-vacations-travel-to-switzerland-1562949323.jpg" data-width="300" data-height="150" alt="" ></div>
+											<div class="elementor-gallery-item__overlay"></div>
+															<div class="elementor-gallery-item__content">
+														<div class="elementor-gallery-item__title">
+																		Switzerland								</div>
+															<div class="elementor-gallery-item__description">
+																		Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 								</div>
+												</div>
+									</a>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/08/pierre-ricadat-L18akQEC84A-unsplash-1.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-3cf3f75" data-elementor-lightbox-description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor " e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjcsInVybCI6Imh0dHA6XC9cL2xvY2FsaG9zdDo3MDAwXC9NeXByb2plY3RcL3dvcmRwcmVzc1wvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDhcL3BpZXJyZS1yaWNhZGF0LUwxOGFrUUVDODRBLXVuc3BsYXNoLTEuanBnIiwic2xpZGVzaG93IjoiYWxsLTNjZjNmNzUifQ%3D%3D">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/08/pierre-ricadat-L18akQEC84A-unsplash-1.jpg" data-width="300" data-height="199" alt="" ></div>
+											<div class="elementor-gallery-item__overlay"></div>
+															<div class="elementor-gallery-item__content">
+														<div class="elementor-gallery-item__title">
+																		Brazil								</div>
+															<div class="elementor-gallery-item__description">
+																		Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 								</div>
+												</div>
+									</a>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/09/Portugal.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-3cf3f75" data-elementor-lightbox-description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor " e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjY2LCJ1cmwiOiJodHRwOlwvXC9sb2NhbGhvc3Q6NzAwMFwvTXlwcm9qZWN0XC93b3JkcHJlc3NcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjJcLzA5XC9Qb3J0dWdhbC5qcGciLCJzbGlkZXNob3ciOiJhbGwtM2NmM2Y3NSJ9">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/09/Portugal.jpg" data-width="300" data-height="194" alt="" ></div>
+											<div class="elementor-gallery-item__overlay"></div>
+															<div class="elementor-gallery-item__content">
+														<div class="elementor-gallery-item__title">
+																		Portugal								</div>
+															<div class="elementor-gallery-item__description">
+																		Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 								</div>
+												</div>
+									</a>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/09/Germany.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-3cf3f75" data-elementor-lightbox-description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor " e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjYyLCJ1cmwiOiJodHRwOlwvXC9sb2NhbGhvc3Q6NzAwMFwvTXlwcm9qZWN0XC93b3JkcHJlc3NcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjJcLzA5XC9HZXJtYW55LmpwZyIsInNsaWRlc2hvdyI6ImFsbC0zY2YzZjc1In0%3D">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/09/Germany.jpg" data-width="300" data-height="200" alt="" ></div>
+											<div class="elementor-gallery-item__overlay"></div>
+															<div class="elementor-gallery-item__content">
+														<div class="elementor-gallery-item__title">
+																		Germany								</div>
+															<div class="elementor-gallery-item__description">
+																		Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 								</div>
+												</div>
+									</a>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/09/wp3011579.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-3cf3f75" data-elementor-lightbox-description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor " e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjU1LCJ1cmwiOiJodHRwOlwvXC9sb2NhbGhvc3Q6NzAwMFwvTXlwcm9qZWN0XC93b3JkcHJlc3NcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjJcLzA5XC93cDMwMTE1NzkuanBnIiwic2xpZGVzaG93IjoiYWxsLTNjZjNmNzUifQ%3D%3D">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/09/wp3011579.jpg" data-width="300" data-height="200" alt="" ></div>
+											<div class="elementor-gallery-item__overlay"></div>
+															<div class="elementor-gallery-item__content">
+														<div class="elementor-gallery-item__title">
+																		New York								</div>
+															<div class="elementor-gallery-item__description">
+																		Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 								</div>
+												</div>
+									</a>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/08/tomas-malik-N9Fl32CFMfU-unsplash.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-3cf3f75" data-elementor-lightbox-description="Lorem ipsum dolor sit amet, consectetur " e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTUsInVybCI6Imh0dHA6XC9cL2xvY2FsaG9zdDo3MDAwXC9NeXByb2plY3RcL3dvcmRwcmVzc1wvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDhcL3RvbWFzLW1hbGlrLU45RmwzMkNGTWZVLXVuc3BsYXNoLmpwZyIsInNsaWRlc2hvdyI6ImFsbC0zY2YzZjc1In0%3D">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/08/tomas-malik-N9Fl32CFMfU-unsplash.jpg" data-width="200" data-height="300" alt="" ></div>
+											<div class="elementor-gallery-item__overlay"></div>
+															<div class="elementor-gallery-item__content">
+														<div class="elementor-gallery-item__title">
+																		Fuji Mountain								</div>
+															<div class="elementor-gallery-item__description">
+																		Lorem ipsum dolor sit amet, consectetur 								</div>
+												</div>
+									</a>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/08/hendrik-cornelissen-qrcOR33ErA-unsplash.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-3cf3f75" data-elementor-lightbox-description="Lorem ipsum dolor sit amet, consectetur" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjgsInVybCI6Imh0dHA6XC9cL2xvY2FsaG9zdDo3MDAwXC9NeXByb2plY3RcL3dvcmRwcmVzc1wvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDhcL2hlbmRyaWstY29ybmVsaXNzZW4tcXJjT1IzM0VyQS11bnNwbGFzaC5qcGciLCJzbGlkZXNob3ciOiJhbGwtM2NmM2Y3NSJ9">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/08/hendrik-cornelissen-qrcOR33ErA-unsplash.jpg" data-width="300" data-height="182" alt="" ></div>
+											<div class="elementor-gallery-item__overlay"></div>
+															<div class="elementor-gallery-item__content">
+														<div class="elementor-gallery-item__title">
+																		Yellow stone								</div>
+															<div class="elementor-gallery-item__description">
+																		Lorem ipsum dolor sit amet, consectetur								</div>
+												</div>
+									</a>
+					</div>
+			</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1c546b9 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="1c546b9" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-28d1b32" data-id="28d1b32" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-732bcc2 elementor-widget elementor-widget-heading" data-id="732bcc2" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-small">YOUR KIND OF HOLIDAY</p>		</div>
+				</div>
+				<div class="elementor-element elementor-element-8627ca7 elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="8627ca7" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">Your world,<span style="font-size:45px;"><b> your way</b></span></h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-ac748e0 elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-text-editor" data-id="ac748e0" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Distinctively re-engineer revolutionary meta-services and premium architectures. Intrinsically incubate intuitive opportunities and real-time potentialities. Appropriately communicate one-to-one technology after plug-and-play networks.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-68a159a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="68a159a" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f522c89" data-id="f522c89" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-663ead0 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="663ead0" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.4 - 31-08-2022 */
+.elementor-widget-divider{--divider-border-style:none;--divider-border-width:1px;--divider-color:#2c2c2c;--divider-icon-size:20px;--divider-element-spacing:10px;--divider-pattern-height:24px;--divider-pattern-size:20px;--divider-pattern-url:none;--divider-pattern-repeat:repeat-x}.elementor-widget-divider .elementor-divider{display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-widget-divider .elementor-divider__text{font-size:15px;line-height:1;max-width:95%}.elementor-widget-divider .elementor-divider__element{margin:0 var(--divider-element-spacing);-ms-flex-negative:0;flex-shrink:0}.elementor-widget-divider .elementor-icon{font-size:var(--divider-icon-size)}.elementor-widget-divider .elementor-divider-separator{display:-webkit-box;display:-ms-flexbox;display:flex;margin:0;direction:ltr}.elementor-widget-divider--view-line_icon .elementor-divider-separator,.elementor-widget-divider--view-line_text .elementor-divider-separator{-webkit-box-align:center;-ms-flex-align:center;align-items:center}.elementor-widget-divider--view-line_icon .elementor-divider-separator:after,.elementor-widget-divider--view-line_icon .elementor-divider-separator:before,.elementor-widget-divider--view-line_text .elementor-divider-separator:after,.elementor-widget-divider--view-line_text .elementor-divider-separator:before{display:block;content:"";border-bottom:0;-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1;border-top:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--element-align-left .elementor-divider .elementor-divider-separator>.elementor-divider__svg:first-of-type{-webkit-box-flex:0;-ms-flex-positive:0;flex-grow:0;-ms-flex-negative:100;flex-shrink:100}.elementor-widget-divider--element-align-left .elementor-divider-separator:before{content:none}.elementor-widget-divider--element-align-left .elementor-divider__element{margin-left:0}.elementor-widget-divider--element-align-right .elementor-divider .elementor-divider-separator>.elementor-divider__svg:last-of-type{-webkit-box-flex:0;-ms-flex-positive:0;flex-grow:0;-ms-flex-negative:100;flex-shrink:100}.elementor-widget-divider--element-align-right .elementor-divider-separator:after{content:none}.elementor-widget-divider--element-align-right .elementor-divider__element{margin-right:0}.elementor-widget-divider:not(.elementor-widget-divider--view-line_text):not(.elementor-widget-divider--view-line_icon) .elementor-divider-separator{border-top:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--separator-type-pattern{--divider-border-style:none}.elementor-widget-divider--separator-type-pattern.elementor-widget-divider--view-line .elementor-divider-separator,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:after,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:before,.elementor-widget-divider--separator-type-pattern:not([class*=elementor-widget-divider--view]) .elementor-divider-separator{width:100%;min-height:var(--divider-pattern-height);-webkit-mask-size:var(--divider-pattern-size) 100%;mask-size:var(--divider-pattern-size) 100%;-webkit-mask-repeat:var(--divider-pattern-repeat);mask-repeat:var(--divider-pattern-repeat);background-color:var(--divider-color);-webkit-mask-image:var(--divider-pattern-url);mask-image:var(--divider-pattern-url)}.elementor-widget-divider--no-spacing{--divider-pattern-size:auto}.elementor-widget-divider--bg-round{--divider-pattern-repeat:round}.rtl .elementor-widget-divider .elementor-divider__text{direction:rtl}.e-container>.elementor-widget-divider{width:var(--container-widget-width,100%);--flex-grow:var(--container-widget-flex-grow,0)}</style>		<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-026e065 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="026e065" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-fb24a0e" data-id="fb24a0e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-02dfef9 elementor-widget elementor-widget-eael-progress-bar" data-id="02dfef9" data-element_type="widget" data-widget_type="eael-progress-bar.default">
+				<div class="elementor-widget-container">
+			<div class="eael-progressbar-circle-container center">
+                <div class="eael-progressbar eael-progressbar-half-circle" data-layout="half_circle" data-count="98" data-duration="1500">
+                    <div class="eael-progressbar-circle">
+                        <div class="eael-progressbar-circle-pie">
+                            <div class="eael-progressbar-circle-half" style="-webkit-transition-duration:1500ms;-o-transition-duration:1500ms;transition-duration:1500ms;"></div>
+                        </div>
+                        <div class="eael-progressbar-circle-inner"></div>
+                    </div>
+                    <div class="eael-progressbar-circle-inner-content">
+                        
+                        <span class="eael-progressbar-count-wrap"><span class="eael-progressbar-count">0</span><span class="postfix">%</span></span>
+                    </div>
+                </div>
+                <div class="eael-progressbar-half-circle-after">
+                    
+                    
+                </div>
+            </div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3ea3417 elementor-widget elementor-widget-heading" data-id="3ea3417" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-default"><span">Client Satisfaction</span></h5>		</div>
+				</div>
+				<div class="elementor-element elementor-element-607bfe5 elementor-widget elementor-widget-text-editor" data-id="607bfe5" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Podcasting operational change management inside of workflow framework</p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-f33c3a5" data-id="f33c3a5" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-efc459b elementor-widget elementor-widget-eael-progress-bar" data-id="efc459b" data-element_type="widget" data-widget_type="eael-progress-bar.default">
+				<div class="elementor-widget-container">
+			<div class="eael-progressbar-circle-container center">
+                <div class="eael-progressbar eael-progressbar-half-circle" data-layout="half_circle" data-count="95" data-duration="1500">
+                    <div class="eael-progressbar-circle">
+                        <div class="eael-progressbar-circle-pie">
+                            <div class="eael-progressbar-circle-half" style="-webkit-transition-duration:1500ms;-o-transition-duration:1500ms;transition-duration:1500ms;"></div>
+                        </div>
+                        <div class="eael-progressbar-circle-inner"></div>
+                    </div>
+                    <div class="eael-progressbar-circle-inner-content">
+                        
+                        <span class="eael-progressbar-count-wrap"><span class="eael-progressbar-count">0</span><span class="postfix">%</span></span>
+                    </div>
+                </div>
+                <div class="eael-progressbar-half-circle-after">
+                    
+                    
+                </div>
+            </div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-1a70eb9 elementor-widget elementor-widget-heading" data-id="1a70eb9" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-default">Great Travels</h5>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3613dc1 elementor-widget elementor-widget-text-editor" data-id="3613dc1" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Capitalize on low hanging fruit to identify a ballpark value-added activity</p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-7710fea" data-id="7710fea" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2177683 elementor-widget elementor-widget-eael-progress-bar" data-id="2177683" data-element_type="widget" data-widget_type="eael-progress-bar.default">
+				<div class="elementor-widget-container">
+			<div class="eael-progressbar-circle-container center">
+                <div class="eael-progressbar eael-progressbar-half-circle" data-layout="half_circle" data-count="90" data-duration="1500">
+                    <div class="eael-progressbar-circle">
+                        <div class="eael-progressbar-circle-pie">
+                            <div class="eael-progressbar-circle-half" style="-webkit-transition-duration:1500ms;-o-transition-duration:1500ms;transition-duration:1500ms;"></div>
+                        </div>
+                        <div class="eael-progressbar-circle-inner"></div>
+                    </div>
+                    <div class="eael-progressbar-circle-inner-content">
+                        
+                        <span class="eael-progressbar-count-wrap"><span class="eael-progressbar-count">0</span><span class="postfix">%</span></span>
+                    </div>
+                </div>
+                <div class="eael-progressbar-half-circle-after">
+                    
+                    
+                </div>
+            </div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-e37d350 elementor-widget elementor-widget-heading" data-id="e37d350" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-default">Would Run</h5>		</div>
+				</div>
+				<div class="elementor-element elementor-element-8c97598 elementor-widget elementor-widget-text-editor" data-id="8c97598" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>User-generated content in real-time will have multiple touchpoints for offshoring.</p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-a735fa2" data-id="a735fa2" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3dfae3e elementor-widget elementor-widget-eael-progress-bar" data-id="3dfae3e" data-element_type="widget" data-widget_type="eael-progress-bar.default">
+				<div class="elementor-widget-container">
+			<div class="eael-progressbar-circle-container center">
+                <div class="eael-progressbar eael-progressbar-half-circle" data-layout="half_circle" data-count="100" data-duration="1500">
+                    <div class="eael-progressbar-circle">
+                        <div class="eael-progressbar-circle-pie">
+                            <div class="eael-progressbar-circle-half" style="-webkit-transition-duration:1500ms;-o-transition-duration:1500ms;transition-duration:1500ms;"></div>
+                        </div>
+                        <div class="eael-progressbar-circle-inner"></div>
+                    </div>
+                    <div class="eael-progressbar-circle-inner-content">
+                        
+                        <span class="eael-progressbar-count-wrap"><span class="eael-progressbar-count">0</span><span class="postfix">%</span></span>
+                    </div>
+                </div>
+                <div class="eael-progressbar-half-circle-after">
+                    
+                    
+                </div>
+            </div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-4a4b2cb elementor-widget elementor-widget-heading" data-id="4a4b2cb" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-default">Dedication</h5>		</div>
+				</div>
+				<div class="elementor-element elementor-element-1820c1d elementor-widget elementor-widget-text-editor" data-id="1820c1d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Leverage agile framework to provide a robust synopsis for high level overviews</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-a183054 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a183054" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9a5f721" data-id="9a5f721" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-bf54c38 elementor-align-center elementor-widget__width-auto elementor-absolute elementor-widget elementor-widget-button" data-id="bf54c38" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-lg elementor-animation-float" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Find the Perfect Tour</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-dfe7443 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="dfe7443" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-61a224f" data-id="61a224f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-7224c8d elementor-widget elementor-widget-heading" data-id="7224c8d" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-xxl">Love Travel?</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-c7d61c2 elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-text-editor" data-id="c7d61c2" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>You&#8217;ve come to the right place. Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-3ec88ec elementor-search-form--button-type-text elementor-widget__width-initial elementor-absolute elementor-search-form--skin-classic elementor-widget elementor-widget-search-form" data-id="3ec88ec" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;,&quot;skin&quot;:&quot;classic&quot;}" data-widget_type="search-form.default">
+				<div class="elementor-widget-container">
+					<form class="elementor-search-form" role="search" action="https://qthanh2110.github.io/mywordpress" method="get">
+									<div class="elementor-search-form__container">
+								<input placeholder="Enter your Email Adress" class="elementor-search-form__input" type="search" name="s" title="Search" value="">
+													<button class="elementor-search-form__submit" type="submit" title="Search" aria-label="Search">
+													Subscribe											</button>
+											</div>
+		</form>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-145e1ce elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="145e1ce" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-221db8f" data-id="221db8f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-a368a34 elementor-widget elementor-widget-heading" data-id="a368a34" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-default">BOOK THEM WHILE THEY'RE HOT</h6>		</div>
+				</div>
+				<div class="elementor-element elementor-element-4943f8a elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-heading" data-id="4943f8a" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-xxl">First minute offers</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-e167bd8 elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-text-editor" data-id="e167bd8" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Efficiently enable enabled sources and cost effective products. Completely synthesize principle-centered information after ethical communities. Efficiently innovate open-source infrastructures.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-a4440d5 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="a4440d5" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d34f5c3" data-id="d34f5c3" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-dbf6844 elementor-widget elementor-widget-gallery" data-id="dbf6844" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;1:1&quot;,&quot;overlay_title&quot;:&quot;caption&quot;,&quot;_animation&quot;:&quot;none&quot;,&quot;lazyload&quot;:&quot;yes&quot;,&quot;gallery_layout&quot;:&quot;grid&quot;,&quot;columns&quot;:4,&quot;columns_tablet&quot;:2,&quot;columns_mobile&quot;:1,&quot;gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;link_to&quot;:&quot;file&quot;,&quot;overlay_background&quot;:&quot;yes&quot;,&quot;content_hover_animation&quot;:&quot;fade-in&quot;}" data-widget_type="gallery.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-gallery__container">
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/09/switzerland-vacations-travel-to-switzerland-1562949323.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-dbf6844" data-elementor-lightbox-description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor " e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjcwLCJ1cmwiOiJodHRwOlwvXC9sb2NhbGhvc3Q6NzAwMFwvTXlwcm9qZWN0XC93b3JkcHJlc3NcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjJcLzA5XC9zd2l0emVybGFuZC12YWNhdGlvbnMtdHJhdmVsLXRvLXN3aXR6ZXJsYW5kLTE1NjI5NDkzMjMuanBnIiwic2xpZGVzaG93IjoiYWxsLWRiZjY4NDQifQ%3D%3D">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/09/switzerland-vacations-travel-to-switzerland-1562949323.jpg" data-width="357" data-height="179" alt="" ></div>
+											<div class="elementor-gallery-item__overlay"></div>
+															<div class="elementor-gallery-item__content">
+														<div class="elementor-gallery-item__title">
+																		Switzerland								</div>
+												</div>
+									</a>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/09/Portugal.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-dbf6844" data-elementor-lightbox-description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor " e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjY2LCJ1cmwiOiJodHRwOlwvXC9sb2NhbGhvc3Q6NzAwMFwvTXlwcm9qZWN0XC93b3JkcHJlc3NcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjJcLzA5XC9Qb3J0dWdhbC5qcGciLCJzbGlkZXNob3ciOiJhbGwtZGJmNjg0NCJ9">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/09/Portugal.jpg" data-width="357" data-height="231" alt="" ></div>
+											<div class="elementor-gallery-item__overlay"></div>
+															<div class="elementor-gallery-item__content">
+														<div class="elementor-gallery-item__title">
+																		Portugal								</div>
+												</div>
+									</a>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/09/Germany.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-dbf6844" data-elementor-lightbox-description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor " e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjYyLCJ1cmwiOiJodHRwOlwvXC9sb2NhbGhvc3Q6NzAwMFwvTXlwcm9qZWN0XC93b3JkcHJlc3NcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjJcLzA5XC9HZXJtYW55LmpwZyIsInNsaWRlc2hvdyI6ImFsbC1kYmY2ODQ0In0%3D">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/09/Germany.jpg" data-width="357" data-height="238" alt="" ></div>
+											<div class="elementor-gallery-item__overlay"></div>
+															<div class="elementor-gallery-item__content">
+														<div class="elementor-gallery-item__title">
+																		Germany								</div>
+												</div>
+									</a>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/09/wp3011579.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-dbf6844" data-elementor-lightbox-description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor " e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjU1LCJ1cmwiOiJodHRwOlwvXC9sb2NhbGhvc3Q6NzAwMFwvTXlwcm9qZWN0XC93b3JkcHJlc3NcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjJcLzA5XC93cDMwMTE1NzkuanBnIiwic2xpZGVzaG93IjoiYWxsLWRiZjY4NDQifQ%3D%3D">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/09/wp3011579.jpg" data-width="357" data-height="238" alt="" ></div>
+											<div class="elementor-gallery-item__overlay"></div>
+															<div class="elementor-gallery-item__content">
+														<div class="elementor-gallery-item__title">
+																		New York								</div>
+												</div>
+									</a>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/08/hendrik-cornelissen-qrcOR33ErA-unsplash.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-dbf6844" data-elementor-lightbox-description="Lorem ipsum dolor sit amet, consectetur" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjgsInVybCI6Imh0dHA6XC9cL2xvY2FsaG9zdDo3MDAwXC9NeXByb2plY3RcL3dvcmRwcmVzc1wvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDhcL2hlbmRyaWstY29ybmVsaXNzZW4tcXJjT1IzM0VyQS11bnNwbGFzaC5qcGciLCJzbGlkZXNob3ciOiJhbGwtZGJmNjg0NCJ9">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/08/hendrik-cornelissen-qrcOR33ErA-unsplash.jpg" data-width="357" data-height="216" alt="" ></div>
+											<div class="elementor-gallery-item__overlay"></div>
+															<div class="elementor-gallery-item__content">
+														<div class="elementor-gallery-item__title">
+																		Yellow stone								</div>
+												</div>
+									</a>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/08/kulli-kittus-gSJmnILpg54-unsplash.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-dbf6844" data-elementor-lightbox-title="kulli-kittus-gSJmnILpg54-unsplash" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTgsInVybCI6Imh0dHA6XC9cL2xvY2FsaG9zdDo3MDAwXC9NeXByb2plY3RcL3dvcmRwcmVzc1wvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDhcL2t1bGxpLWtpdHR1cy1nU0ptbklMcGc1NC11bnNwbGFzaC5qcGciLCJzbGlkZXNob3ciOiJhbGwtZGJmNjg0NCJ9">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/08/kulli-kittus-gSJmnILpg54-unsplash.jpg" data-width="357" data-height="238" alt="" ></div>
+											<div class="elementor-gallery-item__overlay"></div>
+															<div class="elementor-gallery-item__content">
+											</div>
+									</a>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/08/jarek-skowron-Zf9bvJ6182k-unsplash.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-dbf6844" data-elementor-lightbox-title="jarek-skowron-Zf9bvJ6182k-unsplash" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTksInVybCI6Imh0dHA6XC9cL2xvY2FsaG9zdDo3MDAwXC9NeXByb2plY3RcL3dvcmRwcmVzc1wvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDhcL2phcmVrLXNrb3dyb24tWmY5YnZKNjE4MmstdW5zcGxhc2guanBnIiwic2xpZGVzaG93IjoiYWxsLWRiZjY4NDQifQ%3D%3D">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/08/jarek-skowron-Zf9bvJ6182k-unsplash.jpg" data-width="357" data-height="238" alt="" ></div>
+											<div class="elementor-gallery-item__overlay"></div>
+															<div class="elementor-gallery-item__content">
+														<div class="elementor-gallery-item__title">
+																		Greenland								</div>
+												</div>
+									</a>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/08/austin-farrington-9tqrKo4B98I-unsplash.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-dbf6844" data-elementor-lightbox-title="austin-farrington-9tqrKo4B98I-unsplash" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTQsInVybCI6Imh0dHA6XC9cL2xvY2FsaG9zdDo3MDAwXC9NeXByb2plY3RcL3dvcmRwcmVzc1wvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDhcL2F1c3Rpbi1mYXJyaW5ndG9uLTl0cXJLbzRCOThJLXVuc3BsYXNoLmpwZyIsInNsaWRlc2hvdyI6ImFsbC1kYmY2ODQ0In0%3D">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/08/austin-farrington-9tqrKo4B98I-unsplash.jpg" data-width="357" data-height="238" alt="" ></div>
+											<div class="elementor-gallery-item__overlay"></div>
+															<div class="elementor-gallery-item__content">
+											</div>
+									</a>
+					</div>
+			</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-8cc376b elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="8cc376b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3201057" data-id="3201057" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e5dd11c elementor-widget elementor-widget-heading" data-id="e5dd11c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-small">SOME THING FOR EVERYONE</h6>		</div>
+				</div>
+				<div class="elementor-element elementor-element-4f3b3ca elementor-widget__width-auto elementor-absolute elementor-widget elementor-widget-heading" data-id="4f3b3ca" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-xxl">Travel<span style="font-size:65px;
+"> Memorabilia</span></h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2ecbd28 elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-text-editor" data-id="2ecbd28" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://qthanh2110.github.io/mywordpress/do-an-giua-ki/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Top 8 phong cảnh thiên nhiên đẹp nhất thế giới</title>
+		<link>https://qthanh2110.github.io/mywordpress/top-10-phong-canh-thien-nhien-dep-nhat-the-gioi/</link>
+					<comments>https://qthanh2110.github.io/mywordpress/top-10-phong-canh-thien-nhien-dep-nhat-the-gioi/#respond</comments>
+		
+		<dc:creator><![CDATA[VuongQuanThanh]]></dc:creator>
+		<pubDate>Thu, 18 Aug 2022 03:59:32 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://qthanh2110.github.io/mywordpress/?p=11</guid>
+
+					<description><![CDATA[Khi bước chân ra khỏi mái ấm và bắt đầu tìm hiểu mọi thứ về thế giới bên ngoài thì thứ đầu tiên nãy ra &#8230;]]></description>
+										<content:encoded><![CDATA[<p>Khi bước chân ra khỏi mái ấm và bắt đầu tìm hiểu mọi thứ về thế giới bên ngoài thì thứ đầu tiên nãy ra trong suy nghĩ cũng của chúng ta sẽ là gì ? Có phải là về một nền ẩm thực nổi tiếng nào đó, hay là một về văn hóa đặc trưng của từng quốc gia hay dân tộc nào đó, Đúng đấy, nhưng những điều đó vẫn chưa phải là lý do lớn nhất thúc đẩy chúng ta khám phá thế giới này. Mà đó chúng là thiên nhiên và cảnh vật làm chúng ta phải nổi da gà khi nghĩ đến bởi sự hùng vĩ và tuyệt đẹp của nó. Vì thế sau đây sẽ là Top 10 những phong cảnh thiên nhiên tuyệt đẹp của thế giới chúng ta. </p>
+
+
+<h3>1. Sa Thạch (The Wave), Tiểu bang Arizona, Mỹ</h3>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="1515" height="724" src="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/08/image_2022-08-18_095857492.png" alt="" class="wp-image-12"/></figure>
+
+
+
+<p><strong>The Wave</strong>&nbsp;là tên của một vùng&nbsp;<a href="https://vi.wikipedia.org/wiki/Sa_th%E1%BA%A1ch">sa thạch</a>&nbsp;nằm ở tiểu bang&nbsp;<a href="https://vi.wikipedia.org/wiki/Arizona">Arizona</a>,&nbsp;<a href="https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3">Hoa Kỳ</a>, gần biên giới Arizona và Utah trên cao nguyên Colorado. Vùng sa thạch này được&nbsp;<a href="https://vi.wikipedia.org/w/index.php?title=C%E1%BB%A5c_qu%E1%BA%A3n_l%C3%BD_%C4%91%E1%BA%A5t_%C4%91ai_c%E1%BB%A7a_M%E1%BB%B9&amp;action=edit&amp;redlink=1">Cục quản lý đất đai của Mỹ</a>&nbsp;(BLM) quản lý và xem xét tăng số lượng khách tham quan mỗi ngày.</p>
+
+
+
+<p><strong>The Wave </strong>được hình thành từ các lớp sa thạch đầy màu sắc ở phía bắc Coyote Buttes, sa mạc Arizona,&nbsp;<a href="https://travel.com.vn/chau-my/tour-hoa-ky.aspx">Hoa Kỳ</a>&nbsp;được tạo nên từ các cồn cát xếp chồng lên nhau cùng sự lắng đọng của muối canxi, tạo nên những đường cong, uốn lượn độc đáo và quyến rũ. Được gọi bằng cái tên &#8220;Vùng đất ngoài hành tinh&#8221;, The Wave đã thực sự là điểm đến lý tưởng không chỉ của những vị khách du lịch mà đặc biệt thu hút sự tò mò khám phá của các nhiếp ảnh gia.</p>
+
+
+
+<h3>2. Ruộng bậc thang, Lai Châu, Việt Nam</h3>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top"><figure class="wp-block-media-text__media"><img loading="lazy" width="5089" height="3390" src="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/08/paul-vincent-roll-c61jL_NpAn8-unsplash.jpg" alt="" class="wp-image-13 size-full"/></figure><div class="wp-block-media-text__content">
+<p><strong>Ruộng bậc thang (Terraced fields)</strong>&nbsp;là một hình thức canh tác trên đất dốc của nhiều dân tộc khác nhau trên&nbsp;<a href="https://vi.wikipedia.org/wiki/Th%E1%BA%BF_gi%E1%BB%9Bi">thế giới</a>. </p>
+
+
+
+<p><strong>Ruộng bậc thang Mù Cang Chải</strong>&nbsp;là những&nbsp;<a href="https://vi.wikipedia.org/wiki/Ru%E1%BB%99ng_b%E1%BA%ADc_thang">ruộng bậc thang</a>&nbsp;nằm trên các sườn núi, lớp nọ gối tiếp lớp kia với diện tích khoảng 2.200 ha ở huyện&nbsp;<a href="https://vi.wikipedia.org/wiki/M%C3%B9_Cang_Ch%E1%BA%A3i">Mù Cang Chải</a>,&nbsp;<a href="https://vi.wikipedia.org/wiki/Y%C3%AAn_B%C3%A1i">Yên Bái</a>. Năm 2007, 500 ha diện tích ruộng bậc thang thuộc 3 xã&nbsp;<a href="https://vi.wikipedia.org/wiki/La_P%C3%A1n_T%E1%BA%A9n">La Pán Tẩn</a>,&nbsp;<a href="https://vi.wikipedia.org/wiki/Ch%E1%BA%BF_Cu_Nha">Chế Cu Nha</a>,&nbsp;<a href="https://vi.wikipedia.org/wiki/D%E1%BA%BF_Xu_Ph%C3%ACnh">Dế Xu Phình</a>&nbsp;được xếp hạng là&nbsp;<a href="https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_Di_t%C3%ADch_qu%E1%BB%91c_gia_Vi%E1%BB%87t_Nam">di tích quốc gia</a>&nbsp;như là một trong những danh thắng độc đáo bậc nhất tại Việt Nam.</p>
+</div></div>
+
+
+
+<h3>3. Vườn quốc gia Yellowstone, miền tây Bang Wyoming, Hoa Kỳ</h3>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/08/austin-farrington-9tqrKo4B98I-unsplash.jpg" alt="" class="wp-image-14" width="661" height="440"/></figure>
+
+
+
+<p><strong>Vườn quốc gia Yellowstone</strong> có diện tích 8.980&nbsp;km², bao gồm các hồ, vực, sông và các dãy núi. Vườn quốc gia là vùng lõi của&nbsp;<a href="https://vi.wikipedia.org/w/index.php?title=H%E1%BB%87_sinh_th%C3%A1i_Greater_Yellowstone&amp;action=edit&amp;redlink=1">hệ sinh thái Greater Yellowstone</a>, hệ sinh thái hầu như còn nguyên vẹn lớn nhất thuộc vùng ôn đới bắc Bán cầu.</p>
+
+
+
+<p>Còn là nơi ở của hàng trăm loài động vật có vú, chim, cá và rùa đã được ghi nhận bao gồm một số&nbsp;<a href="https://vi.wikipedia.org/wiki/Lo%C3%A0i_nguy_c%E1%BA%A5p">loài có nguy cơ tuyệt chủng</a>&nbsp;hoặc&nbsp;<a href="https://vi.wikipedia.org/wiki/Lo%C3%A0i_b%E1%BB%8B_%C4%91e_d%E1%BB%8Da">bị đe dọa tuyệt chủng</a>. Có các loài&nbsp;<a href="https://vi.wikipedia.org/wiki/G%E1%BA%A5u_x%C3%A1m_B%E1%BA%AFc_M%E1%BB%B9">gấu</a>,&nbsp;<a href="https://vi.wikipedia.org/wiki/S%C3%B3i_x%C3%A1m">sói xám</a>, và các bầy&nbsp;<a href="https://vi.wikipedia.org/wiki/B%C3%B2_r%E1%BB%ABng_bizon">bò rừng bizon</a>&nbsp;và&nbsp;<a href="https://vi.wikipedia.org/wiki/Nai_s%E1%BB%ABng_t%E1%BA%A5m_ch%C3%A2u_%C3%82u">nai sừng tấm</a>&nbsp;sống khu vườn này.</p>
+
+
+
+<p><strong>Yellowstone</strong> còn có nhiều điểm cho phép vui chơi giải trí như&nbsp;<a href="https://vi.wikipedia.org/wiki/%C4%90i_b%E1%BB%99_%C4%91%C6%B0%E1%BB%9Dng_d%C3%A0i">đi bộ đường dài</a>,&nbsp;<a href="https://vi.wikipedia.org/wiki/C%E1%BA%AFm_tr%E1%BA%A1i">cắm trại</a>,&nbsp;<a href="https://vi.wikipedia.org/wiki/Ch%C3%A8o_thuy%E1%BB%81n">chèo thuyền</a>,&nbsp;<a href="https://vi.wikipedia.org/wiki/C%C3%A2u_(h%C3%A0nh_%C4%91%E1%BB%99ng)">câu cá</a>&nbsp;và ngắm cảnh. Các đường bê tông được xây dựng đến các khu vực địa nhiệt chính cũng như các hồ và thác. Vào mùa đông, du khách thường đến công viên theo các tour du lịch có người hướng dẫn sử dụng các&nbsp;<a href="https://vi.wikipedia.org/wiki/Xe_tr%C6%B0%E1%BB%A3t_tuy%E1%BA%BFt">xe trượt tuyết</a>.</p>
+
+
+
+<h3>4. Núi Phú Sĩ, đảo Honshu, Nhật Bản</h3>
+
+
+
+<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile is-vertically-aligned-top"><figure class="wp-block-media-text__media"><img loading="lazy" width="4160" height="6240" src="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/08/tomas-malik-N9Fl32CFMfU-unsplash.jpg" alt="" class="wp-image-15 size-full"/></figure><div class="wp-block-media-text__content">
+<p class="has-text-align-left"><strong>Núi Phú Sĩ</strong>&nbsp;hay&nbsp;<strong>Núi Fuji</strong> nằm trên đảo&nbsp;<a href="https://vi.wikipedia.org/wiki/Honshu">Honshu</a>&nbsp;là ngọn núi cao nhất Nhật Bản với độ cao 3.776,24 trên mực nước biển, là đỉnh núi cao thứ 2 trên một hòn đảo tại châu Á và thứ 7 trên thế giới.&nbsp;Đây là một núi lửa dạng tầng đã ngưng hoạt động với lần phun trào cuối vào năm 1707-1708.Núi Phú Sĩ nằm cách&nbsp;<a href="https://vi.wikipedia.org/wiki/Tokyo">Tokyo</a>&nbsp;khoảng 100&nbsp;km về phía tây nam và có thể được nhìn thấy từ thủ đô vào một ngày đẹp trời. Ngọn núi có cấu trúc hình nón đối xứng đặc biệt và được phủ tuyết khoảng 5 tháng mỗi năm, là biểu tượng của đất nước và thường được mô tả trong các sáng tác nghệ thuật cũng như được nhiều du khách khắp nơi trên thế giới ghé thăm khi tới&nbsp;<a href="https://vi.wikipedia.org/wiki/Nh%E1%BA%ADt_B%E1%BA%A3n">Nhật Bản</a>.</p>
+
+
+
+<p>Là một trong những biểu tượng nổi tiếng nhất nước Nhật, khách du lịch từ khắp nơi trên thế giới đổ về tỉnh <a rel="noreferrer noopener" href="https://www.japan.travel/destinations/tokai/shizuoka/" target="_blank"><strong>Shizuoka</strong></a>,<strong> Yamanashi </strong>để ngắm nhìn ngọn núi hùng vĩ này. Tuy nhiên, đối với người Nhật, <a rel="noreferrer noopener" href="https://www.japan.travel/fuji-guide/mt-fuji-more-than-a-mountain/" target="_blank">Núi Phú Sĩ</a> từ lâu đã là một địa điểm tâm linh rất quan trọng và là nguồn cảm hứng nghệ thuật. </p>
+
+
+
+<p>Ví dụ như Bức bích họa của họa sĩ thiên tài người nhật Hokusai, và đa dạng các thể loại thơ văn đã lấy núi Phú Sĩ làm chủ đề để nói về vẻ đẹp thiên nhiên hùng vĩ và sống động của Nhật Bản.</p>
+
+
+
+<p></p>
+</div></div>
+
+
+
+<h3>5.ĐỒNG MUỐI SALAR DE UYUNI, BOLIVIA</h3>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top"><figure class="wp-block-media-text__media"><img loading="lazy" width="4298" height="2846" src="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/08/pierre-ricadat-L18akQEC84A-unsplash.jpg" alt="" class="wp-image-16 size-full"/></figure><div class="wp-block-media-text__content">
+<p><strong>Salar de Uyuni</strong>&nbsp;(hay&nbsp;<strong>Salar de Tunupa</strong>)<sup><a href="https://vi.wikipedia.org/wiki/Salar_de_Uyuni#cite_note-1">[1]</a></sup>&nbsp;là bãi muối lớn nhất thế giới, với diện tích 10,582&nbsp;km². Nó nằm ở tỉnh Daniel Campos, bộ Potosí ở phía tây nam&nbsp;<a href="https://vi.wikipedia.org/wiki/Bolivia">Bôlivia</a>, gần đỉnh của&nbsp;<a href="https://vi.wikipedia.org/wiki/Andes">dãy Andes</a>&nbsp;ở độ cao 3.656 mét trên mực nước biển.</p>
+
+
+
+<p class="has-text-align-left"><strong>Salar</strong> được hình thành như là kết quả của sự biến đổi giữa một số hồ tiền sử. Nó được bao phủ bởi một lớp vỏ muối dày vài mét, có độ phẳng đáng kinh ngạc với biến thiên độ cao trung bình trong khoảng một mét trên toàn bộ khu vực Salar. </p>
+</div></div>
+
+
+
+<div class="wp-container-2 wp-block-columns alignwide">
+<div class="wp-container-1 wp-block-column" style="flex-basis:100%">
+<p><strong>Cánh đồng muối</strong> được miêu tả tựa như một tấm gương khổng lồ phản chiếu cả một bầu trời trong nó. Salar de Uyuni thu hút khách du lịch từ khắp nơi trên thế giới. Vì cách xa thành phố, một số khách sạn đã được xây dựng trong khu vực. Do thiếu vật liệu xây dựng thông thường, nhiều trong số chúng gần như hoàn toàn (tường, mái, đồ nội thất) được xây dựng với các khối muối được cắt từ Salar. Khách sạn đầu tiên như vậy, có tên Palacio de Sal, được xây dựng vào năm 1993-1995 ở giữa bãi muối,  và sớm trở thành một điểm du lịch nổi tiếng.Tuy nhiên, vị trí của nó ở trung tâm sa mạc gây ra vấn đề vệ sinh, vì hầu hết chất thải phải được thu gom bằng tay. Sai phạm trong quản lý gây ra ô nhiễm môi trường nghiêm trọng và khách sạn bị buộc phải tháo dỡ vào năm 2002.</p>
+</div>
+</div>
+
+
+
+<h3>6.CỰC QUANG PHƯƠNG BẮC, IRELAND</h3>
+
+
+
+<figure class="wp-container-4 wp-block-gallery-3 wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-block-image alignwide size-full"><img loading="lazy" width="5266" height="6583" data-id="17"  src="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/08/benjamin-suter-CgoRzWX4CDg-unsplash.jpg" alt="" class="wp-image-17"/></figure>
+</figure>
+
+
+
+<p>Trong&nbsp;<a href="https://vi.wikipedia.org/wiki/Thi%C3%AAn_v%C4%83n_h%E1%BB%8Dc">thiên văn học</a>,&nbsp;<strong>cực quang</strong>&nbsp;là một hiện tượng&nbsp;<a href="https://vi.wikipedia.org/wiki/Quang_h%E1%BB%8Dc">quang học</a>&nbsp;được đặc trưng bởi sự thể hiện đầy&nbsp;<a href="https://vi.wikipedia.org/wiki/M%C3%A0u_s%E1%BA%AFc">màu sắc</a>&nbsp;của&nbsp;<a href="https://vi.wikipedia.org/wiki/%C3%81nh_s%C3%A1ng">ánh sáng</a>&nbsp;trên&nbsp;<a href="https://vi.wikipedia.org/wiki/B%E1%BA%A7u_tr%E1%BB%9Di">bầu trời</a>&nbsp;về&nbsp;<a href="https://vi.wikipedia.org/wiki/%C4%90%C3%AAm">đêm</a>, được sinh ra do sự&nbsp;<a href="https://vi.wikipedia.org/wiki/L%E1%BB%B1c">tương tác</a>&nbsp;của các&nbsp;<a href="https://vi.wikipedia.org/wiki/H%E1%BA%A1t_(v%E1%BA%ADt_l%C3%BD)">hạt</a>&nbsp;mang&nbsp;<a href="https://vi.wikipedia.org/wiki/%C4%90i%E1%BB%87n_t%C3%ADch">điện tích</a>&nbsp;từ&nbsp;<a href="https://vi.wikipedia.org/wiki/Gi%C3%B3_M%E1%BA%B7t_Tr%E1%BB%9Di">gió mặt trời</a>&nbsp;với tầng&nbsp;<a href="https://vi.wikipedia.org/wiki/Kh%C3%AD_quy%E1%BB%83n">khí quyển</a>&nbsp;bên trên của&nbsp;<a href="https://vi.wikipedia.org/wiki/H%C3%A0nh_tinh">hành tinh</a>. Các cực quang mạnh nhất thường diễn ra sau sự phun trào ánh sáng của&nbsp;<strong>Mặt Trời</strong>. Những&nbsp;<a href="https://vi.wikipedia.org/w/index.php?title=D%E1%BA%A3i_s%C3%A1ng&amp;action=edit&amp;redlink=1">dải sáng</a>&nbsp;này liên tục&nbsp;<a href="https://vi.wikipedia.org/wiki/Chuy%E1%BB%83n_%C4%91%E1%BB%99ng">chuyển động</a>&nbsp;và thay đổi làm cho chúng trông giống như những dải&nbsp;<a href="https://vi.wikipedia.org/wiki/L%E1%BB%A5a">lụa</a>&nbsp;đầy màu sắc màu trên bầu trời. Đây có thể coi là một trong những&nbsp;<a href="https://vi.wikipedia.org/wiki/H%C3%ACnh_%E1%BA%A3nh">hình ảnh</a>&nbsp;đẹp của&nbsp;<a href="https://vi.wikipedia.org/wiki/T%E1%BB%B1_nhi%C3%AAn">tự nhiên</a>. </p>
+
+
+
+<p><strong>Cực quang</strong> là cảnh tượng rực rỡ huyền ảo của bầu trời đêm xuất hiện bởi sự va chạm các hạt tích điện từ mặt trời với bầu khí quyển trái đất. Cực quang chỉ xuất hiện ở vùng gần cực từ tháng 10 năm nay tới tháng 3 năm sau. Ngoài màu xanh lá cây, một số cực quang còn có màu đỏ, xanh, vàng, cam&#8230;</p>
+
+
+
+<p></p>
+
+
+
+<h3>7.THUNG LŨNG QUEBRADA DE HUMAHUACA, ARGENTINA</h3>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="6016" height="4016" src="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/08/kulli-kittus-gSJmnILpg54-unsplash.jpg" alt="" class="wp-image-18"/></figure>
+
+
+
+<p><strong>Quebrada de Humahuaca</strong>&nbsp;là một vùng&nbsp;<a href="https://vi.wikipedia.org/wiki/Thung_l%C5%A9ng">thung lũng</a>&nbsp;hẹp và dài khoảng 155&nbsp;km (96 dặm), nằm ở tỉnh&nbsp;<a href="https://vi.wikipedia.org/wiki/Jujuy_(t%E1%BB%89nh)">Jujuy</a>&nbsp;ở phía tây bắc Argentina, cách 1.649&nbsp;km (1025 dặm) phía bắc&nbsp;<a href="https://vi.wikipedia.org/wiki/Buenos_Aires">Buenos Aires</a>&nbsp;(ở 23°11&#8217;59&#8221; vĩ nam 65°20&#8217;56&#8221; kinh tây). Khu vực giáp với vùng&nbsp;<a href="https://vi.wikipedia.org/wiki/Altiplano">Altiplano</a>&nbsp;ở phía tây và phía bắc, những ngọn đồi cận&nbsp;<a href="https://vi.wikipedia.org/wiki/Andes">Andes</a>&nbsp;ở phía đông, và các &#8220;thung lũng ấm&#8221; (<strong>Valles Templados</strong>) ở phía nam.</p>
+
+
+
+<p>Quebrada (nghĩa đen là &#8220;bị gãy&#8221;) dịch ra là thung lũng sâu hay khe núi. Nó được đặt tên theo&nbsp;<a href="https://vi.wikipedia.org/w/index.php?title=Humahuaca&amp;action=edit&amp;redlink=1">Humahuaca</a>, một thành phố nhỏ có 11.000 cư dân. Sông Grande (Río Grande) là sông chính trong khu vực, khô vào mùa đông, mở rộng dòng chảy trong mùa hè.</p>
+
+
+
+<p>Khu vực là một ngã tư thông tin liên lạc, kinh tế, xã hội và văn hóa. Đây là khu vực sinh sống có niên đại 10.000 năm, kể từ khi có những người&nbsp;<a href="https://vi.wikipedia.org/wiki/S%C4%83n_b%E1%BA%AFn">săn bắn</a>&nbsp;<a href="https://vi.wikipedia.org/w/index.php?title=H%C3%A1i_l%C6%B0%E1%BB%A3m&amp;action=edit&amp;redlink=1">hái lượm</a>&nbsp;đầu tiên trong thời&nbsp;<a href="https://vi.wikipedia.org/wiki/Ti%E1%BB%81n_s%E1%BB%AD">tiền sử</a>. Nơi đây từng là nơi qua lại của con đường bộ hành dưới thời&nbsp;<a href="https://vi.wikipedia.org/wiki/%C4%90%E1%BA%BF_ch%E1%BA%BF_Inca">đế chế Inca</a>&nbsp;vào thế kỷ 15, sau đó đây là khu vực kết nối quan trọng giữa&nbsp;<a href="https://vi.wikipedia.org/wiki/Ph%C3%B3_v%C6%B0%C6%A1ng_qu%E1%BB%91c_R%C3%ADo_de_la_Plata">phó vương quốc Río de la Plata</a>&nbsp;và&nbsp;<a href="https://vi.wikipedia.org/wiki/Ph%C3%B3_v%C6%B0%C6%A1ng_qu%E1%BB%91c_Peru">phó vương quốc Peru</a>, cũng như các giai đoạn cho nhiều trận đánh của cuộc chiến tranh giành độc lập dưới thời Tây Ban Nha.</p>
+
+
+
+<p><strong>Quebrada de Humahuaca</strong>&nbsp;đã được UNESCO công nhận&nbsp;<a href="https://vi.wikipedia.org/wiki/Di_s%E1%BA%A3n_th%E1%BA%BF_gi%E1%BB%9Bi">di sản thế giới</a>&nbsp;vào ngày 2 tháng 7 năm&nbsp;<a href="https://vi.wikipedia.org/wiki/2003">2003</a>.</p>
+
+
+
+<h3>8.Vách đá Moher, Ireland</h3>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="5184" height="3456" src="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/08/jarek-skowron-Zf9bvJ6182k-unsplash.jpg" alt="" class="wp-image-19"/></figure>
+
+
+
+<p><strong>Vách đá Moher</strong>&nbsp;(<a href="https://vi.wikipedia.org/wiki/Ti%E1%BA%BFng_Ailen">tiếng Ailen</a>: Aillte an Mhothair, còn được gọi là các vách đá của mohair) nằm trong các giáo xứ của Liscannor ở rìa phía nam-tây của khu vực Burren gần Doolin, ở hạt Clare,&nbsp;<a href="https://vi.wikipedia.org/wiki/C%E1%BB%99ng_h%C3%B2a_Ireland">Cộng hòa Ireland</a><sup><a href="https://vi.wikipedia.org/wiki/V%C3%A1ch_%C4%91%C3%A1_Moher#cite_note-MG-1">[1]</a></sup>.</p>
+
+
+
+<p>Các vách đá cao 120 mét (390&nbsp;ft) trên&nbsp;<a href="https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_T%C3%A2y_D%C6%B0%C6%A1ng">Đại Tây Dương</a>&nbsp;tại Hag&#8217;s Head (tiếng Ailen: Ceann na Cailleach), và đạt độ cao tối đa của 214 mét (702&nbsp;ft) ở phía bắc của&nbsp;<a href="https://vi.wikipedia.org/w/index.php?title=O%27Brien%27s_Tower&amp;action=edit&amp;redlink=1">O&#8217;Brien&#8217;s Tower</a>, cách đó tám km 2<sup><a href="https://vi.wikipedia.org/wiki/V%C3%A1ch_%C4%91%C3%A1_Moher#cite_note-DI-2">[2]</a></sup>. Cảnh quan từ các vách đá thu hút gần một triệu du khách mỗi năm. Vào ngày trời trong,&nbsp;<a href="https://vi.wikipedia.org/wiki/Qu%E1%BA%A7n_%C4%91%E1%BA%A3o_Aran">quần đảo Aran</a>&nbsp;có thể nhìn thấy trong vịnh Galway, như là các thung lũng, đồi núi của Connemara và Loop Head ở phía nam<sup><a href="https://vi.wikipedia.org/wiki/V%C3%A1ch_%C4%91%C3%A1_Moher#cite_note-3">[3]</a></sup>.</p>
+
+
+
+<p>Liên quan: Là nơi Westlife quay MV cho hit đình đám trong sự nghiệp của họ My Love</p>
+
+
+
+<p>Một trong những thắng cảnh thiên nhiên được truy cập nhiều nhất của Ireland, các vách đá Moher kéo dài dọc theo bờ biển phía tây của đất nước. Các vách đá gồ ghề tạo ra khung cảnh hùng vĩ xuống đại dương bên dưới</p>
+
+
+
+<p></p>
+
+
+<p><iframe loading="lazy" class="giphy-embed" src="https://giphy.com/embed/kn2GtngXJ3hZu" width="480" height="333" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p><a href="https://giphy.com/gifs/television-kn2GtngXJ3hZu">via GIPHY</a></p>]]></content:encoded>
+					
+					<wfw:commentRss>https://qthanh2110.github.io/mywordpress/top-10-phong-canh-thien-nhien-dep-nhat-the-gioi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hello world!</title>
+		<link>https://qthanh2110.github.io/mywordpress/hello-world/</link>
+					<comments>https://qthanh2110.github.io/mywordpress/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[VuongQuanThanh]]></dc:creator>
+		<pubDate>Tue, 16 Aug 2022 01:33:37 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://qthanh2110.github.io/mywordpress/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://qthanh2110.github.io/mywordpress/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
