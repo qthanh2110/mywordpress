@@ -43,6 +43,10 @@
 			<link rel="stylesheet" href="https://qthanh2110.github.io/mywordpress/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css">			<nav migration_allowed="1" migrated="0" role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-background e--animation-fade">
 				<ul id="menu-1-ffc76c9" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-370"><a href="https://qthanh2110.github.io/mywordpress/" class="elementor-item">HomePage</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-51"><a href="https://qthanh2110.github.io/mywordpress/blog/" class="elementor-item">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-498"><a href="https://qthanh2110.github.io/mywordpress/shop/" class="elementor-item">Shop</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-499"><a href="https://qthanh2110.github.io/mywordpress/pages/" class="elementor-item">Pages</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-500"><a href="https://qthanh2110.github.io/mywordpress/destinations/" class="elementor-item">Destinations</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-501"><a href="https://qthanh2110.github.io/mywordpress/tours/" class="elementor-item">Tours</a></li>
 </ul>			</nav>
 					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
 			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open elementor-animation-pulse fas fa-search"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close elementor-animation-pulse eicon-close"></i>			<span class="elementor-screen-only">Menu</span>
@@ -50,6 +54,10 @@
 			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
 				<ul id="menu-2-ffc76c9" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-370"><a href="https://qthanh2110.github.io/mywordpress/" class="elementor-item" tabindex="-1">HomePage</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-51"><a href="https://qthanh2110.github.io/mywordpress/blog/" class="elementor-item" tabindex="-1">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-498"><a href="https://qthanh2110.github.io/mywordpress/shop/" class="elementor-item" tabindex="-1">Shop</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-499"><a href="https://qthanh2110.github.io/mywordpress/pages/" class="elementor-item" tabindex="-1">Pages</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-500"><a href="https://qthanh2110.github.io/mywordpress/destinations/" class="elementor-item" tabindex="-1">Destinations</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-501"><a href="https://qthanh2110.github.io/mywordpress/tours/" class="elementor-item" tabindex="-1">Tours</a></li>
 </ul>			</nav>
 				</div>
 				</div>
