@@ -13,7 +13,7 @@
 	<link>https://qthanh2110.github.io/mywordpress</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Tue, 13 Sep 2022 02:33:01 +0000</lastBuildDate>
-	<language>vi</language>
+	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -29,7 +29,7 @@
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">https://qthanh2110.github.io/mywordpress/?p=68</guid>
 
-					<description><![CDATA[Netherland Hitoric Amsterdam Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Discover Netherland View other &#8230;]]></description>
+					<description><![CDATA[Netherland Hitoric Amsterdam Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Discover Netherland View other Tours Find your Tour GO [&#8230;]]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="68" class="elementor elementor-68">
 									<section class="elementor-section elementor-top-section elementor-element elementor-element-181cc26 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="181cc26" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;video&quot;,&quot;background_video_link&quot;:&quot;https:\/\/www.youtube.com\/watch?v=Oxv6IRcuNaI&quot;,&quot;background_video_start&quot;:20,&quot;background_video_end&quot;:55}">
 								<div class="elementor-background-video-container elementor-hidden-phone">
@@ -47,6 +47,9 @@
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-498"><a href="https://qthanh2110.github.io/mywordpress/shop/" class="elementor-item">Shop</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-706"><a href="https://qthanh2110.github.io/mywordpress/about-us/" class="elementor-item">About Us</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-708"><a href="https://qthanh2110.github.io/mywordpress/contact-us/" class="elementor-item">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-723"><a href="https://qthanh2110.github.io/mywordpress/cart/" class="elementor-item">Cart</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-725"><a href="https://qthanh2110.github.io/mywordpress/checkout/" class="elementor-item">Checkout</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-727"><a href="https://qthanh2110.github.io/mywordpress/my-account/" class="elementor-item">My account</a></li>
 </ul>			</nav>
 					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
 			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open elementor-animation-pulse fas fa-search"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close elementor-animation-pulse eicon-close"></i>			<span class="elementor-screen-only">Menu</span>
@@ -58,6 +61,9 @@
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-498"><a href="https://qthanh2110.github.io/mywordpress/shop/" class="elementor-item" tabindex="-1">Shop</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-706"><a href="https://qthanh2110.github.io/mywordpress/about-us/" class="elementor-item" tabindex="-1">About Us</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-708"><a href="https://qthanh2110.github.io/mywordpress/contact-us/" class="elementor-item" tabindex="-1">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-723"><a href="https://qthanh2110.github.io/mywordpress/cart/" class="elementor-item" tabindex="-1">Cart</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-725"><a href="https://qthanh2110.github.io/mywordpress/checkout/" class="elementor-item" tabindex="-1">Checkout</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-727"><a href="https://qthanh2110.github.io/mywordpress/my-account/" class="elementor-item" tabindex="-1">My account</a></li>
 </ul>			</nav>
 				</div>
 				</div>
@@ -764,7 +770,7 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-gallery__container">
 							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/09/switzerland-vacations-travel-to-switzerland-1562949323.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-dbf6844" data-elementor-lightbox-description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor " e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjcwLCJ1cmwiOiJodHRwOlwvXC9sb2NhbGhvc3Q6NzAwMFwvTXlwcm9qZWN0XC93b3JkcHJlc3NcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjJcLzA5XC9zd2l0emVybGFuZC12YWNhdGlvbnMtdHJhdmVsLXRvLXN3aXR6ZXJsYW5kLTE1NjI5NDkzMjMuanBnIiwic2xpZGVzaG93IjoiYWxsLWRiZjY4NDQifQ%3D%3D">
-					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/09/switzerland-vacations-travel-to-switzerland-1562949323.jpg" data-width="760" data-height="380" alt="" ></div>
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/09/switzerland-vacations-travel-to-switzerland-1562949323.jpg" data-width="980" data-height="490" alt="" ></div>
 											<div class="elementor-gallery-item__overlay"></div>
 															<div class="elementor-gallery-item__content">
 														<div class="elementor-gallery-item__title">
@@ -772,7 +778,7 @@
 												</div>
 									</a>
 							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/09/Portugal.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-dbf6844" data-elementor-lightbox-description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor " e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjY2LCJ1cmwiOiJodHRwOlwvXC9sb2NhbGhvc3Q6NzAwMFwvTXlwcm9qZWN0XC93b3JkcHJlc3NcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjJcLzA5XC9Qb3J0dWdhbC5qcGciLCJzbGlkZXNob3ciOiJhbGwtZGJmNjg0NCJ9">
-					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/09/Portugal.jpg" data-width="760" data-height="492" alt="" ></div>
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/09/Portugal.jpg" data-width="980" data-height="635" alt="" ></div>
 											<div class="elementor-gallery-item__overlay"></div>
 															<div class="elementor-gallery-item__content">
 														<div class="elementor-gallery-item__title">
@@ -780,7 +786,7 @@
 												</div>
 									</a>
 							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/09/Germany.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-dbf6844" data-elementor-lightbox-description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor " e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjYyLCJ1cmwiOiJodHRwOlwvXC9sb2NhbGhvc3Q6NzAwMFwvTXlwcm9qZWN0XC93b3JkcHJlc3NcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjJcLzA5XC9HZXJtYW55LmpwZyIsInNsaWRlc2hvdyI6ImFsbC1kYmY2ODQ0In0%3D">
-					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/09/Germany.jpg" data-width="760" data-height="507" alt="" ></div>
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/09/Germany.jpg" data-width="980" data-height="654" alt="" ></div>
 											<div class="elementor-gallery-item__overlay"></div>
 															<div class="elementor-gallery-item__content">
 														<div class="elementor-gallery-item__title">
@@ -788,7 +794,7 @@
 												</div>
 									</a>
 							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/09/wp3011579.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-dbf6844" data-elementor-lightbox-description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor " e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjU1LCJ1cmwiOiJodHRwOlwvXC9sb2NhbGhvc3Q6NzAwMFwvTXlwcm9qZWN0XC93b3JkcHJlc3NcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjJcLzA5XC93cDMwMTE1NzkuanBnIiwic2xpZGVzaG93IjoiYWxsLWRiZjY4NDQifQ%3D%3D">
-					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/09/wp3011579.jpg" data-width="760" data-height="507" alt="" ></div>
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/09/wp3011579.jpg" data-width="980" data-height="653" alt="" ></div>
 											<div class="elementor-gallery-item__overlay"></div>
 															<div class="elementor-gallery-item__content">
 														<div class="elementor-gallery-item__title">
@@ -796,7 +802,7 @@
 												</div>
 									</a>
 							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/08/hendrik-cornelissen-qrcOR33ErA-unsplash.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-dbf6844" data-elementor-lightbox-description="Lorem ipsum dolor sit amet, consectetur" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjgsInVybCI6Imh0dHA6XC9cL2xvY2FsaG9zdDo3MDAwXC9NeXByb2plY3RcL3dvcmRwcmVzc1wvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDhcL2hlbmRyaWstY29ybmVsaXNzZW4tcXJjT1IzM0VyQS11bnNwbGFzaC5qcGciLCJzbGlkZXNob3ciOiJhbGwtZGJmNjg0NCJ9">
-					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/08/hendrik-cornelissen-qrcOR33ErA-unsplash.jpg" data-width="760" data-height="460" alt="" ></div>
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/08/hendrik-cornelissen-qrcOR33ErA-unsplash.jpg" data-width="980" data-height="593" alt="" ></div>
 											<div class="elementor-gallery-item__overlay"></div>
 															<div class="elementor-gallery-item__content">
 														<div class="elementor-gallery-item__title">
@@ -804,13 +810,13 @@
 												</div>
 									</a>
 							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/08/kulli-kittus-gSJmnILpg54-unsplash.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-dbf6844" data-elementor-lightbox-title="kulli-kittus-gSJmnILpg54-unsplash" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTgsInVybCI6Imh0dHA6XC9cL2xvY2FsaG9zdDo3MDAwXC9NeXByb2plY3RcL3dvcmRwcmVzc1wvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDhcL2t1bGxpLWtpdHR1cy1nU0ptbklMcGc1NC11bnNwbGFzaC5qcGciLCJzbGlkZXNob3ciOiJhbGwtZGJmNjg0NCJ9">
-					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/08/kulli-kittus-gSJmnILpg54-unsplash.jpg" data-width="760" data-height="507" alt="" ></div>
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/08/kulli-kittus-gSJmnILpg54-unsplash.jpg" data-width="980" data-height="654" alt="" ></div>
 											<div class="elementor-gallery-item__overlay"></div>
 															<div class="elementor-gallery-item__content">
 											</div>
 									</a>
 							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/08/jarek-skowron-Zf9bvJ6182k-unsplash.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-dbf6844" data-elementor-lightbox-title="jarek-skowron-Zf9bvJ6182k-unsplash" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTksInVybCI6Imh0dHA6XC9cL2xvY2FsaG9zdDo3MDAwXC9NeXByb2plY3RcL3dvcmRwcmVzc1wvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDhcL2phcmVrLXNrb3dyb24tWmY5YnZKNjE4MmstdW5zcGxhc2guanBnIiwic2xpZGVzaG93IjoiYWxsLWRiZjY4NDQifQ%3D%3D">
-					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/08/jarek-skowron-Zf9bvJ6182k-unsplash.jpg" data-width="760" data-height="507" alt="" ></div>
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/08/jarek-skowron-Zf9bvJ6182k-unsplash.jpg" data-width="980" data-height="653" alt="" ></div>
 											<div class="elementor-gallery-item__overlay"></div>
 															<div class="elementor-gallery-item__content">
 														<div class="elementor-gallery-item__title">
@@ -818,7 +824,7 @@
 												</div>
 									</a>
 							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/08/austin-farrington-9tqrKo4B98I-unsplash.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-dbf6844" data-elementor-lightbox-title="austin-farrington-9tqrKo4B98I-unsplash" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTQsInVybCI6Imh0dHA6XC9cL2xvY2FsaG9zdDo3MDAwXC9NeXByb2plY3RcL3dvcmRwcmVzc1wvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDhcL2F1c3Rpbi1mYXJyaW5ndG9uLTl0cXJLbzRCOThJLXVuc3BsYXNoLmpwZyIsInNsaWRlc2hvdyI6ImFsbC1kYmY2ODQ0In0%3D">
-					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/08/austin-farrington-9tqrKo4B98I-unsplash.jpg" data-width="760" data-height="507" alt="" ></div>
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://qthanh2110.github.io/mywordpress/wp-content/uploads/2022/08/austin-farrington-9tqrKo4B98I-unsplash.jpg" data-width="980" data-height="653" alt="" ></div>
 											<div class="elementor-gallery-item__overlay"></div>
 															<div class="elementor-gallery-item__content">
 											</div>
@@ -869,7 +875,7 @@
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">https://qthanh2110.github.io/mywordpress/?p=11</guid>
 
-					<description><![CDATA[Khi bước chân ra khỏi mái ấm và bắt đầu tìm hiểu mọi thứ về thế giới bên ngoài thì thứ đầu tiên nãy ra &#8230;]]></description>
+					<description><![CDATA[Khi bước chân ra khỏi mái ấm và bắt đầu tìm hiểu mọi thứ về thế giới bên ngoài thì thứ đầu tiên nãy ra trong suy nghĩ cũng của [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>Khi bước chân ra khỏi mái ấm và bắt đầu tìm hiểu mọi thứ về thế giới bên ngoài thì thứ đầu tiên nãy ra trong suy nghĩ cũng của chúng ta sẽ là gì ? Có phải là về một nền ẩm thực nổi tiếng nào đó, hay là một về văn hóa đặc trưng của từng quốc gia hay dân tộc nào đó, Đúng đấy, nhưng những điều đó vẫn chưa phải là lý do lớn nhất thúc đẩy chúng ta khám phá thế giới này. Mà đó chúng là thiên nhiên và cảnh vật làm chúng ta phải nổi da gà khi nghĩ đến bởi sự hùng vĩ và tuyệt đẹp của nó. Vì thế sau đây sẽ là Top 10 những phong cảnh thiên nhiên tuyệt đẹp của thế giới chúng ta. </p>
 
 

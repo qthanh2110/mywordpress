@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Các phản hồi luận về: Hello world!	</title>
+	Comments on: Hello world!	</title>
 	<atom:link href="http://localhost/Myproject/wordpress/hello-world/feed/" rel="self" type="application/rss+xml" />
 	<link>https://qthanh2110.github.io/mywordpress/hello-world/</link>
 	<description>Just another WordPress site</description>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
 		<title>
-		Bởi: A WordPress Commenter		</title>
+		By: A WordPress Commenter		</title>
 		<link>https://qthanh2110.github.io/mywordpress/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
