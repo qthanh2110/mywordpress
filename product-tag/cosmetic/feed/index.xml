@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Cosmetic &#8211; My WordPress</title>
+	<atom:link href="http://localhost/Myproject/wordpress/product-tag/cosmetic/feed/" rel="self" type="application/rss+xml" />
+	<link>https://qthanh2110.github.io/mywordpress</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 25 Oct 2022 01:31:59 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<item>
+		<title>EYE DROPS</title>
+		<link>https://qthanh2110.github.io/mywordpress/product/eye-drops/</link>
+					<comments>https://qthanh2110.github.io/mywordpress/product/eye-drops/#respond</comments>
+		
+		<dc:creator><![CDATA[VuongQuanThanh]]></dc:creator>
+		<pubDate>Tue, 25 Oct 2022 01:31:59 +0000</pubDate>
+				<guid isPermaLink="false">https://qthanh2110.github.io/mywordpress/?post_type=product&#038;p=926</guid>
+
+					<description><![CDATA[An dico accommodare ius, porro mnesarchum pro in. Cetero fierent urbanitas eam id, sed movet voluptua ut. Eu agam malorum nec. Eu has vide putent, dico option nominati no eam. Ea erant impetus consequuntur eos, velit congue vidisse eos ne. Est dicat doming te, inani eruditi iudicabit mei ea. Sed id prima soluta legimus.]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, justo vivendum vis cu. Eu sed adhuc urbanitas, ex democritum intellegam his. Cu cum paulo viderer commune. Vis eu meis audiam scripserit, quem luptatum pri te. Adhuc lorem zril sit ex, minim noster suavitate ad eam, simul salutatus elaboraret qui ei. Reque bonorum accusamus eam ut, consequat referrentur id qui. Odio summo mea ex, libris inermis repudiandae an nec, vis id suscipit deserunt abhorreant. Commune accommodare te his. Mea no solum erroribus omittantur. Mei nisl hinc natum.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://qthanh2110.github.io/mywordpress/product/eye-drops/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>GULA CREME</title>
+		<link>https://qthanh2110.github.io/mywordpress/product/gula-creme/</link>
+					<comments>https://qthanh2110.github.io/mywordpress/product/gula-creme/#respond</comments>
+		
+		<dc:creator><![CDATA[VuongQuanThanh]]></dc:creator>
+		<pubDate>Tue, 25 Oct 2022 01:14:47 +0000</pubDate>
+				<guid isPermaLink="false">https://qthanh2110.github.io/mywordpress/?post_type=product&#038;p=905</guid>
+
+					<description><![CDATA[An dico accommodare ius, porro mnesarchum pro in. Cetero fierent urbanitas eam id, sed movet voluptua ut. Eu agam malorum nec. Eu has vide putent, dico option nominati no eam. Ea erant impetus consequuntur eos, velit congue vidisse eos ne. Est dicat doming te, inani eruditi iudicabit mei ea. Sed id prima soluta legimus.]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, justo vivendum vis cu. Eu sed adhuc urbanitas, ex democritum intellegam his. Cu cum paulo viderer commune. Vis eu meis audiam scripserit, quem luptatum pri te. Adhuc lorem zril sit ex, minim noster suavitate ad eam, simul salutatus elaboraret qui ei. Reque bonorum accusamus eam ut, consequat referrentur id qui. Odio summo mea ex, libris inermis repudiandae an nec, vis id suscipit deserunt abhorreant. Commune accommodare te his. Mea no solum erroribus omittantur. Mei nisl hinc natum.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://qthanh2110.github.io/mywordpress/product/gula-creme/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
